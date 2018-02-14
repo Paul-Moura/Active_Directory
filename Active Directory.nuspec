@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>ActiveDirectory</id>
+    <version>$version$</version>
+    <title>ActiveDirectory</title>
+    <authors>Paul Moura</authors>
+    <owners>Culbreath Oil and Gas</owners>
+    <licenseUrl>http://culbreathoilgas.com</licenseUrl>
+    <projectUrl>http://culbreathoilgas.com</projectUrl>
+    <iconUrl>http://culbreathoilgas.com</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Provides most features from Microsoft's AD User and Computers.</description>
+    <releaseNotes>Initial Release.</releaseNotes>
+    <copyright>Copyright 2017</copyright>
+    <tags>active directory user users computer authentication</tags>
+  </metadata>
+</package>
